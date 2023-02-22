@@ -1,7 +1,16 @@
-# Daily-Jurnal
+# Daily Jurnal
 
-https://nutty-cardigan-bull.cyclic.app/
+Live link [https://dull-tan-kingfisher-toga.cyclic.app/](https://gold-jittery-giraffe.cyclic.app/)
 
-/compose -> to add new post
+## Used technologies 
+<li>NodeJS(Express) - for functionality</li>
+<li>EJS - rendering pages</li>
+<li>MongoDB(Mongoose)- managing databases</li>
+<li>MongoDB Atlas - hosting databases</li>
 
-<img width="910" alt="219978823-703c68da-077b-4d04-8e45-aa634be4739a" src="https://user-images.githubusercontent.com/125278159/219979270-5cf6df71-c4ce-4bb8-8549-ee048002d9e5.png">
+## Additional functionality
+To compose new post add /compose to the link and you will be redirected to compose page
+<br>
+<br>
+
+<img width="1041" alt="Screenshot 2023-02-22 182233" src="https://user-images.githubusercontent.com/125278159/220708088-1112b080-c379-44e3-abca-380d063eac26.png">
