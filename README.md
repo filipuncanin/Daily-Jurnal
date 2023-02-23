@@ -1,6 +1,6 @@
 # Daily Jurnal
 
-Live link [https://dull-tan-kingfisher-toga.cyclic.app/](https://gold-jittery-giraffe.cyclic.app/)
+Live link https://rose-unusual-panther.cyclic.app/
 
 ## Used technologies 
 <li>NodeJS(Express) - for functionality</li>
